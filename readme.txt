@@ -1,0 +1,1 @@
+Place to store global git setting files.
